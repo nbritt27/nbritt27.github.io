@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## My Projects
 
-You can use the [editor on GitHub](https://github.com/nbritt27/nbritt27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! Here, I have a list of all of the projects that I am currently working on. They are all open source and on GitHub. I am also a member of Cypher Studios, with the main website [here](https://cypherstudios.net)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#PDF Editor
 
-### Markdown
+This is a basic and lightweight PDF Editor running off of HTML5 Canvas. It should work on most devices, and has touch controls enabled. Compared to other applications such as Kami, while this may not have as many features, it should not lag as much due to its simplicity. To view it, go [here](https://nbritt27.github.io/Canvas_DrawingApp/home.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nbritt27/nbritt27.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Coming soon
+I have a number of up-and-coming project that I plan on releasing on GitHub soon. 
