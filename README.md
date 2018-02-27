@@ -9,4 +9,4 @@ This is a basic and lightweight PDF Editor running off of HTML5 Canvas. It shoul
 ## Blanks program
 This python program takes a powerpoint and makes it a fill in the blanks type document, and saves it as a new file. You can then quiz yourself on the information in the powerpoint. In order to view and download it, go [here](https://github.com/nbritt27/Blanks-Program).
 # Coming soon
-I have a number of up-and-coming project that I plan on releasing on GitHub soon.
+I have a number of up-and-coming projects that I plan on releasing on GitHub soon.
