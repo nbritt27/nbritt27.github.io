@@ -11,4 +11,4 @@ This python program takes a powerpoint and makes it a fill in the blanks type do
 # Coming soon
 I have a number of up-and-coming projects that I plan on releasing on GitHub soon.
 # World Bank Data Analysis
-This python program with a TKinter GUI and, after you select two indicators and a date range, will give you information about their correlation (currently US only). 
+This python program works with the TKinter GUI and, after you select two indicators and a date range, will give you information about their correlation (currently US only). 
