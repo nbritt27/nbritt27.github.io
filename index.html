@@ -1,23 +1,45 @@
 <!DOCTYPE html>
-<title>Noah Britt's GitHub Pages Site</title>
-<head>
-  <link rel="stylesheet" href="home.css">
-</head>
-<body>
-<h1>My Projects</h1>
-  
-<p>Hi there! Here, I have a list of all of the projects that I am currently working on. They are all open source and on GitHub. I am also a member of Cypher Studios, with the main website here</p>
+<html>
+ 
+   <head>
+     <title>Noah Britt's GitHub Site</title>
+     <link href="Home.css" rel="stylesheet">
+     <script src="Home.js"></script>
+   </head>
+   <body>
+     <div class="title" id="title">
+       
+       <h1 id='titleheading'>My GitHub Site</h1>
+              <h4>Noah Britt</h4>
 
-<h2>PDF Editor</h2>
-<p>This is a basic and lightweight PDF Editor running off of HTML5 Canvas. It should work on most devices, and has touch controls enabled. Compared to other applications such as Kami, while this may not have as many features, it should not lag as much due to its simplicity. To view it, go here.</p>
+     </div>
+     <div class="nav">
+        <a id="toplinks" href="Home.html">My Projects</a><a id="toplinks" href="Page2.html">Coming Soon</a><a id="toplinks" href="Page3.html">Contact Me</a>
 
-  <h2>Blanks Program</h2>
-<p>This python program takes a powerpoint and makes it a fill in the blanks type document, and saves it as a new file. You can then quiz yourself on the information in the powerpoint. I'm currently working on a way to save the new file in more of an outline form. In order to view and download the current version, go here.</p>
+     </div>
+     <br>
+     <br>
+     <div id="sampletext">
+     </div>
+     <div class="container" width=screen.width/2>
+       <image id='img'src='http://upload.wikimedia.org/wikipedia/commons/f/fc/Pilatus_PC-6_SkydiveLillo_JD18032008.jpg' center center></image>
+     </div>
 
-  <h1>Coming soon</h1>
-  <p>I have a number of up-and-coming projects that I plan on releasing on GitHub soon.</p>
-
-  <h2>World Bank Data Analysis</h2>
-<p>This python program works with the TKinter GUI and, after you select two indicators and a date range, will give you information about their correlation (currently US only).</p>
-</body>
-</html>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <div class="buttonnav" width=screen.width/2>
+       <h4><button id='1'onclick=changeImage('http://upload.wikimedia.org/wikipedia/commons/f/fc/Pilatus_PC-6_SkydiveLillo_JD18032008.jpg')>o</button><button id='2' onclick=changeImage('http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Airplane_2_Landing_in_Toronto.JPG/1024px-Airplane_2_Landing_in_Toronto.JPG')>o</button><button id='3' onclick=changeImage('http://upload.wikimedia.org/wikipedia/commons/6/6b/Cessna.f172g.g-bgmp.arp.jpg')>o</button><button id='4' onclick=changeImage('http://upload.wikimedia.org/wikipedia/commons/d/d6/DC3_on_ice.jpg')>o</button></h4>
+       
+       </div>        
+       <div id="sampletext2">
+        <h5>Ok so this is where some of the text could go Ok so this is where some of the text could goOk so this is where some of the text could goOk so this is where some of the text could goOk so this is where some of the text could goOk so this is where some of the text could go</h5>
+     </div>   
+     <div class='footer'>
+       <h4><span id='data'> </span></h4>
+     </div>
+   </body>
+  </html>
