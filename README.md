@@ -16,8 +16,8 @@ Some of my projects that I work on aren't on GitHub publically, but include usin
 Example visualizations:
 
 Heatmap of tweets about the US elections on election day
-![Election location heatmap](/election_heatmap.png)
+![Election location heatmap](https://github.com/nbritt27/nbritt27.github.io/blob/master/election_heatmap.png?raw=true)
 
 Network of Clemson Game Day tweets:
-![Game Day Network](/gameday_network.png)
+![Game Day Network](https://github.com/nbritt27/nbritt27.github.io/blob/master/gameday_network.png?raw=true)
 
