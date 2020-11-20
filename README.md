@@ -13,3 +13,11 @@ This web program was my high school senior project, and consists of a simple soc
 
 # Not mentioned
 Some of my projects that I work on aren't on GitHub publically, but include using python to analyze twitter data and visualizing it using Matplotlib. 
+Example visualizations:
+
+Heatmap of tweets about the US elections on election day
+![Election location heatmap](/election_heatmap.png)
+
+Network of Clemson Game Day tweets:
+![Game Day Network](/gameday_network.png)
+
