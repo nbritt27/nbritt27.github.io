@@ -1,1 +1,1 @@
-{"data":{"user":null},"errors":[{"type":"NOT_FOUND","path":["user"],"locations":[{"line":3,"column":3}],"message":"Could not resolve to a User with the login of 'nbritt27@gmail.com'."}]}
+{"data":{"user":{"name":"Noah Britt","bio":null,"avatarUrl":"https://avatars.githubusercontent.com/u/16039618?u=71b84980a3164276d371e12182a80b333c22d68e&v=4","location":null,"pinnedItems":{"totalCount":0,"edges":[]}}}}
