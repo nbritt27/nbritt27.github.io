@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cf302f19.css",
-    "main.js": "/static/js/main.92dc1086.js",
+    "main.js": "/static/js/main.ec51044b.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.2ed0bf94.chunk.js": "/static/js/487.2ed0bf94.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.78fd8449.chunk.js": "/static/js/990.78fd8449.chunk.js",
-    "static/media/resume.pdf": "/static/media/resume.aff975dbdc39a1f8efec.pdf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/clemsonLogo.png": "/static/media/clemsonLogo.4d9bde7312f281306326.png",
+    "static/media/resume.pdf": "/static/media/resume.de682d728f5762f94eb6.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -16,7 +16,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.cf302f19.css.map": "/static/css/main.cf302f19.css.map",
-    "main.92dc1086.js.map": "/static/js/main.92dc1086.js.map",
+    "main.ec51044b.js.map": "/static/js/main.ec51044b.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.2ed0bf94.chunk.js.map": "/static/js/487.2ed0bf94.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.cf302f19.css",
-    "static/js/main.92dc1086.js"
+    "static/js/main.ec51044b.js"
   ]
 }
