@@ -1,0 +1,5 @@
+# Design notes and local tool settings stay off the public site
+.impeccable/
+PRODUCT.md
+.claude/
+.DS_Store
